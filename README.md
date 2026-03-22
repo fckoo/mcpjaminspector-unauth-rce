@@ -8,7 +8,7 @@ https://github.com/MCPJam/inspector/security/advisories/GHSA-232v-j27c-5pp6
 # Usage
 
 ```
-usage: mcpjam-exploit.py [-h] --target TARGET --command COMMAND
+usage: mcpjaminspector-unauth-rce.py [-h] --target TARGET --command COMMAND
 
 options:
   -h, --help         show this help message and exit
