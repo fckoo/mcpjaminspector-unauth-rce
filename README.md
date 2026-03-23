@@ -1,4 +1,7 @@
 # mcpjaminspector-unauth-rce
+
+CVE-2026-23744
+
 RCE in MCPJam inspector &lt;= 1.4.2
 
 # Vulnerability details
